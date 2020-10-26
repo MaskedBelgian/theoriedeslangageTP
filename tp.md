@@ -76,7 +76,10 @@ Non reconnu: {c} ou {a} ou {c,b,b,b} etc
 
 18.  Dessinez les automates finis qui correspondent aux langages décrits dans les exercices 7 à 9.
 
-7
+7 et 8:
+
 ![](https://github.com/MaskedBelgian/theoriedeslangageTP/blob/main/TP1-Th%C3%A9orieLangage.jpg)
 
-8
+9:
+
+![](https://github.com/MaskedBelgian/theoriedeslangageTP/blob/main/TP1-Th%C3%A9orieLangage-2.jpg)
