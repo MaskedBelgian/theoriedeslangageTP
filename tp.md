@@ -83,3 +83,9 @@ Non reconnu: {c} ou {a} ou {c,b,b,b} etc
 9:
 
 ![](https://github.com/MaskedBelgian/theoriedeslangageTP/blob/main/TP1-Th%C3%A9orieLangage2.jpg)
+
+19. Utilisez explicitement les règles de traduction d'automate fini à expression régulière pour traduire l'expression régulière de l'exercice 16 en automate fini
+
+20. Pour l'automate fini de l'exercice 17, déterminez l'expression régulière qui lui est équivalente.
+
+[a-b].[a-c]*.[ab]
