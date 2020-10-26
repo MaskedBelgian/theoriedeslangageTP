@@ -94,4 +94,8 @@ Non reconnu: {c} ou {a} ou {c,b,b,b} etc
 
 21.  Le complément d'un langage régulier est-il toujours régulier ? Prouvez votre réponse
 
-22. Déterminez le complément des langages dénis aux exercices 7 à 9
+22. Déterminez le complément des langages définis aux exercices 7 à 9
+
+23. Déterminez l'expression régulière représentant le complément du langage reconnu par l'automate fini suivant. Pour ce faire, déterminisez-le, minimisez-le, complétez-le, inversez les états finaux et non finaux et transformez-le en expression régulière
+
+![](https://i.ibb.co/syYdWTd/Capture-d-cran-2020-10-26-183623.png)
