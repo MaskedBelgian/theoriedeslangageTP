@@ -1,27 +1,27 @@
 ## 1. Liens entre langages finis et réguliers
 1. Tout langage fini est régulier
 
-**Faux**
+	**Faux**
 
-Un langage fini n'est pas nécessairement régulier. Il est à lui seul un langage, pour qu'il soit un langage régulier il devra se construire sur d'autres langages finis.
+	Un langage fini n'est pas nécessairement régulier. Il est à lui seul un langage, pour qu'il soit un langage régulier il devra se construire sur d'autres langages finis.
 
 2. Tout langage régulier est fini
 
-**Vrai**
+	**Vrai**
 
-Un langage est régulier si on peut le construire à partir de langages (un ou plusieurs) eux même finis. 
+	Un langage est régulier si on peut le construire à partir de langages (un ou plusieurs) eux même finis. 
 
-Il sera par conséquent également un langage fini s'il n'est composé que de langage finis.
+	Il sera par conséquent également un langage fini s'il n'est composé que de langage finis.
 
 3. Tout langage qu'on peut représenter par une expression régulière est fini
 
-**Faux**
+	**Faux**
 
-Ca sera un langage régulier.
+	Ca sera un langage régulier.
 
 4. Tout langage fini peut être représenté par une expression régulière
 
-**Vrai**
+	**Vrai**
 
 ## 2. Reconnaitre des langages finis et réguliers
 
