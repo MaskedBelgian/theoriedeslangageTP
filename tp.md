@@ -1,12 +1,10 @@
 ## 1. Liens entre langages finis et réguliers
 1. Tout langage fini est régulier
-
 	**Faux**
 
 	Un langage fini n'est pas nécessairement régulier. Il est à lui seul un langage, pour qu'il soit un langage régulier il devra se construire sur d'autres langages finis.
 
 2. Tout langage régulier est fini
-
 	**Vrai**
 
 	Un langage est régulier si on peut le construire à partir de langages (un ou plusieurs) eux même finis. 
@@ -14,13 +12,11 @@
 	Il sera par conséquent également un langage fini s'il n'est composé que de langage finis.
 
 3. Tout langage qu'on peut représenter par une expression régulière est fini
-
 	**Faux**
 
 	Ca sera un langage régulier.
 
 4. Tout langage fini peut être représenté par une expression régulière
-
 	**Vrai**
 
 ## 2. Reconnaitre des langages finis et réguliers
@@ -63,3 +59,10 @@ régulier*
 
 16. Le langage des mots qui commencent et finissent par le même symbole
 	**Régulier**
+
+## 3. Automates finis
+
+17. Donnez, pour l'automate suivant, un exemple de mot de taille 1, 2, 3, 4 et 5 qui sont reconnus. L'un de ces mots doit contenir un c. Donnez ensuite un exemple de mot non reconnu par cet automate (sur l'alphabet {a,b,c})
+
+![](https://i.ibb.co/whq6gnS/Capture-d-cran-2020-10-26-175054.png)
+
