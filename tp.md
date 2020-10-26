@@ -66,3 +66,10 @@ régulier*
 
 ![](https://i.ibb.co/whq6gnS/Capture-d-cran-2020-10-26-175054.png)
 
+1: {b}
+2: {a,a}
+3: {a,b,a}
+4: {a,c,a,a}
+5: {a,c,a,b,a}
+
+Non reconnu: {c} ou {a} ou {c,b,b,b} etc
