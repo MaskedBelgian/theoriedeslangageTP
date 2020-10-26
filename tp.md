@@ -82,4 +82,4 @@ Non reconnu: {c} ou {a} ou {c,b,b,b} etc
 
 9:
 
-![](https://github.com/MaskedBelgian/theoriedeslangageTP/blob/main/TP1-Th%C3%A9orieLangage-2.jpg)
+![](https://github.com/MaskedBelgian/theoriedeslangageTP/blob/main/TP1-Th%C3%A9orieLangage2.jpg)
