@@ -88,4 +88,4 @@ Non reconnu: {c} ou {a} ou {c,b,b,b} etc
 
 20. Pour l'automate fini de l'exercice 17, déterminez l'expression régulière qui lui est équivalente.
 
-[a-b].[a-c]*.[ab]
+b|[a-c].*.a
