@@ -27,3 +27,39 @@
 
 *Pour chacun des langages suivants, définis sur l'alphabet {1,0}, déterminez s'il est fini et/ou
 régulier*
+
+5. Le langage des mots d'au plus deux symboles
+	**Régulier**
+	
+6. Le langage des mots de taille 2
+	**Fini**
+
+7. Le langage des mots qui commencent et finissent par 1
+	**Régulier**
+
+8. Le langage des nombres impaires en représentation binaire
+	**Fini**
+
+9. Le langage des nombres binaires qui ont un nombre impair de 1
+	**Régulier**
+
+10. Le langage composé des mots présents dans les oeuvres de Victor Hugo, qui auraient été codées en morse (1=-, 0= .)
+	**Finis**
+
+11. Le langage des mots d'au moins deux symboles
+	**Régulier**
+
+12. Le langage des mots de taille 3 qui commencent et finissent par le même symbole
+	**Régulier**
+
+13. Le langage des mots qui commencent et finissent par 1 et qui contiennent exactement trois 1
+	**Régulier**
+
+14. Le langage des mots qui ne contiennent aucun 0
+	**Régulier**
+
+15. Le langage des mots qui contiennent exactement deux fois chaque symbole de l'alphabet
+	**Régulier**
+
+16. Le langage des mots qui commencent et finissent par le même symbole
+	**Régulier**
