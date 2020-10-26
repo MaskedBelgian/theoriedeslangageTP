@@ -73,3 +73,5 @@ régulier*
 5: {a,c,a,b,a}
 
 Non reconnu: {c} ou {a} ou {c,b,b,b} etc
+
+18.  Dessinez les automates finis qui correspondent aux langages décrits dans les exercices 7 à 9.
