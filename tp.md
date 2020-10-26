@@ -74,7 +74,7 @@ régulier*
 
 Non reconnu: {c} ou {a} ou {c,b,b,b} etc
 
-18.  Dessinez les automates finis qui correspondent aux langages décrits dans les exercices 7 à 9.
+18.  Dessinez les automates finis qui correspondent aux langages décrits dans les exercices 7 à 9
 
 7 et 8:
 
@@ -86,7 +86,12 @@ Non reconnu: {c} ou {a} ou {c,b,b,b} etc
 
 19. Utilisez explicitement les règles de traduction d'automate fini à expression régulière pour traduire l'expression régulière de l'exercice 16 en automate fini
 
-20. Pour l'automate fini de l'exercice 17, déterminez l'expression régulière qui lui est équivalente.
+## 4. Complément d'un langage régulier
+
+20. Pour l'automate fini de l'exercice 17, déterminez l'expression régulière qui lui est équivalente
 
 		b|(a.[b-c])*.a
 
+21.  Le complément d'un langage régulier est-il toujours régulier ? Prouvez votre réponse
+
+22. Déterminez le complément des langages dénis aux exercices 7 à 9
