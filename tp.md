@@ -25,16 +25,16 @@
 régulier*
 
 5. *Le langage des mots d'au plus deux symboles*
-	**Régulier**
+	**Fini** car {€,0,1,01,10,00,11} et **Régulier** €|0|1|01|10|00|11
 	
 6. *Le langage des mots de taille 2*
-	**Fini**
+	**Fini** car {01,10,00,11} et **Régulier** 01|10|00|11 ou (0|1).(0|1)
 
 7. *Le langage des mots qui commencent et finissent par 1*
-	**Régulier**
+	**Régulier** car 1.(0|1)*.1 et donc pas fini à cause de l'étoile de Kleene
 
 8. *Le langage des nombres impaires en représentation binaire*
-	**Fini**
+	**Régulier** car (0|1)*.1
 
 9. *Le langage des nombres binaires qui ont un nombre impair de 1*
 	**Régulier**
@@ -90,7 +90,7 @@ Non reconnu: {c} ou {a} ou {c,b,b,b} etc
 
 20. *Pour l'automate fini de l'exercice 17, déterminez l'expression régulière qui lui est équivalente*
 
-		b|(a.[b-c])*.a
+		b|(a.[b|c])*.a
 
 21.  *Le complément d'un langage régulier est-il toujours régulier ? Prouvez votre réponse*
 
