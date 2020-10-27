@@ -49,7 +49,7 @@ régulier*
 	**Finis** car {101,010,111,000} et **Régulier** car 1.(0|1).1 | 0.(0|1).0
 
 13. *Le langage des mots qui commencent et finissent par 1 et qui contiennent exactement trois 1*
-	**Irrégulier**
+	**Régulier** 1.0*.1.0*.1
 
 14. *Le langage des mots qui ne contiennent aucun 0*
 	**Régulier** car 1.*
@@ -58,7 +58,7 @@ régulier*
 	**Finis** car {1100,1010,0011,0101,0110,1001}
 
 16. *Le langage des mots qui commencent et finissent par le même symbole*
-	**Régulier** car 1.(0|1)*.1 | 0.(0|1)*.0
+	**Régulier** car 0 | 1 | ( 1.(0 | 1)\*.1) | ( 0.( 0 | 1 )*.0 )
 
 ## 3. Automates finis
 
