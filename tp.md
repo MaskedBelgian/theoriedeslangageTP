@@ -37,28 +37,28 @@ régulier*
 	**Régulier** car (0|1)*.1
 
 9. *Le langage des nombres binaires qui ont un nombre impair de 1*
-	**Régulier**
+	**Irrégulier** car {1,101,1011,10101,...} on ne peut pas "retenir" de mot et on ne peut pas le représenter en format régulier
 
 10. *Le langage composé des mots présents dans les oeuvres de Victor Hugo, qui auraient été codées en morse (1=-, 0= .)*
-	**Finis**
+	**Finis** car on peut prendre tous les mots de ses livres, les encoder et faire l'union 
 
 11. *Le langage des mots d'au moins deux symboles*
-	**Régulier**
+	**Régulier** car (0|1).(0|1).(0|1).*
 
 12. *Le langage des mots de taille 3 qui commencent et finissent par le même symbole*
-	**Régulier**
+	**Finis** car {101,010,111,000} et **Régulier** car 1.(0|1).1 | 0.(0|1).0
 
 13. *Le langage des mots qui commencent et finissent par 1 et qui contiennent exactement trois 1*
-	**Régulier**
+	**Irrégulier**
 
 14. *Le langage des mots qui ne contiennent aucun 0*
-	**Régulier**
+	**Régulier** car 1.*
 
 15. *Le langage des mots qui contiennent exactement deux fois chaque symbole de l'alphabet*
-	**Régulier**
+	**Finis** car {1100,1010,0011,0101,0110,1001}
 
 16. *Le langage des mots qui commencent et finissent par le même symbole*
-	**Régulier**
+	**Régulier** car 1.(0|1)*.1 | 0.(0|1)*.0
 
 ## 3. Automates finis
 
