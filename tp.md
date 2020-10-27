@@ -71,6 +71,8 @@ régulier*
 16. *Le langage des mots qui commencent et finissent par le même symbole*
 
 	**Régulier** car 0 | 1 | ( 1.(0 | 1)\*.1) | ( 0.( 0 | 1 )*.0 )
+	
+![](https://github.com/MaskedBelgian/theoriedeslangageTP/blob/main/Capture%20d%E2%80%99%C3%A9cran%202020-10-27%20195951.png)
 
 ## 3. Automates finis
 
