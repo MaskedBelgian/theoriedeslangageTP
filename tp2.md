@@ -71,4 +71,7 @@ S -> a | aSb | aS
 15. *Le langage des palindromes (mots qui peuvent se lire de gauche à droite ou de
 droite à gauche)*
 
-15. *Le langage des mots de la forme c(a|b)^n c(a|b)^n c*
+S -> E | a | b | c | aSa | bSb | cSc
+
+16. *Le langage des mots de la forme c(a|b)^n c(a|b)^n c*
+
