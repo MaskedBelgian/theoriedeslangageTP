@@ -53,6 +53,8 @@ Voir Lemme de pompage
 
 11. *Le langage des mots qui contiennent autant de a que de b et aucun c*
 
+![](https://i.ibb.co/CQS04L6/Capture-d-cran-2020-11-03-185620.png)
+
 12. *Le langage des mots de la forme a^n c^n c^n(n ≥ 0)*
 
 13. *Le langage des mots de la forme a
