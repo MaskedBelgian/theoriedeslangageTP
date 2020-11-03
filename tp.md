@@ -104,7 +104,7 @@ Non reconnu: {c} ou {a} ou {c,b,b,b} etc
 
 20. *Pour l'automate fini de l'exercice 17, déterminez l'expression régulière qui lui est équivalente*
 
-		b|(a.[b|c])*.a
+		(ab*c)*(b|ab*a)
 
 21.  *Le complément d'un langage régulier est-il toujours régulier ? Prouvez votre réponse*
 
