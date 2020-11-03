@@ -57,27 +57,29 @@ Voir Lemme de pompage
 
 12. *Le langage des mots de la forme a^n c^n c^n(n ≥ 0)*
 
-S -> E | aScc
+`S -> E | aScc`
 
 13. *Le langage des mots de la forme a
 nban(n ≥ 0)*
 
-S -> b | aSa
+`S -> b | aSa`
 
 14. *Le langage des mots de la forme a^n b^m(n > m ≥ 0)
 
-S -> a | aSb | aS
+`S -> a | aSb | aS`
 
 15. *Le langage des palindromes (mots qui peuvent se lire de gauche à droite ou de
 droite à gauche)*
 
-S -> E | a | b | c | aSa | bSb | cSc
+`S -> E | a | b | c | aSa | bSb | cSc`
 
 16. *Le langage des mots de la forme c(a|b)^n c(a|b)^n c*
 
+```
 S -> cXc
 X -> YXY | C
 Y -> a|b
+```
 
 ## 3. Improductifs et inaccessibles
 
@@ -89,7 +91,7 @@ A -> AB
 B -> b
 ```
 
-S -> a
+`S -> a`
 
 18. *Supprimez les improductifs et inaccessibles de la grammaire suivante*
 
