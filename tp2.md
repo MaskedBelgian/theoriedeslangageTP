@@ -66,6 +66,8 @@ S -> b | aSa
 
 14. *Le langage des mots de la forme a^n b^m(n > m ≥ 0)
 
+S -> a | aSb | aS
+
 15. *Le langage des palindromes (mots qui peuvent se lire de gauche à droite ou de
 droite à gauche)*
 
