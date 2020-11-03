@@ -57,5 +57,7 @@ Voir Lemme de pompage
 
 12. *Le langage des mots de la forme a^n c^n c^n(n ≥ 0)*
 
+S -> E | aScc
+
 13. *Le langage des mots de la forme a
 nban(n ≥ 0)*
