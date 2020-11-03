@@ -61,3 +61,5 @@ S -> E | aScc
 
 13. *Le langage des mots de la forme a
 nban(n ≥ 0)*
+
+S -W b | aSa
