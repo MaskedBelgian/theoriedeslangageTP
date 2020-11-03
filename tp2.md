@@ -62,4 +62,11 @@ S -> E | aScc
 13. *Le langage des mots de la forme a
 nban(n ≥ 0)*
 
-S -W b | aSa
+S -> b | aSa
+
+14. *Le langage des mots de la forme a^n b^m(n > m ≥ 0)
+
+15. *Le langage des palindromes (mots qui peuvent se lire de gauche à droite ou de
+droite à gauche)*
+
+15. *Le langage des mots de la forme c(a|b)^n c(a|b)^n c*
