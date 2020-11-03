@@ -78,3 +78,31 @@ S -> E | a | b | c | aSa | bSb | cSc
 S -> cXc
 X -> YXY | C
 Y -> a|b
+
+## 3. Improductifs et inaccessibles
+
+17. *Supprimez les improductifs et inaccessibles de la grammaire suivante*
+
+```
+S -> a|A
+A -> AB
+B -> b
+```
+
+S -> a
+
+18. *Supprimez les improductifs et inaccessibles de la grammaire suivante*
+
+```
+S -> T|U
+U -> aYb|V
+V -> W
+X -> W|a
+Y -> Z
+Z -> c|E
+```
+
+```
+S -> aYb
+Y -> C | E
+```
