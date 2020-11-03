@@ -75,3 +75,6 @@ S -> E | a | b | c | aSa | bSb | cSc
 
 16. *Le langage des mots de la forme c(a|b)^n c(a|b)^n c*
 
+S -> cXc
+X -> YXY | C
+Y -> a|b
