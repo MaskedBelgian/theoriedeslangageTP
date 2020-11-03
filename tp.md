@@ -100,6 +100,8 @@ Non reconnu: {c} ou {a} ou {c,b,b,b} etc
 
 19. *Utilisez explicitement les règles de traduction d'automate fini à expression régulière pour traduire l'expression régulière de l'exercice 16 en automate fini*
 
+![](https://i.ibb.co/hRXn62C/Capture-d-cran-2020-11-03-191443.png)
+
 ## 4. Complément d'un langage régulier
 
 20. *Pour l'automate fini de l'exercice 17, déterminez l'expression régulière qui lui est équivalente*
