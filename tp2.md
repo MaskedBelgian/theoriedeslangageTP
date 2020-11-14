@@ -144,6 +144,6 @@ voir 20
 
 ```
 I -> E | a | b | AB
-A -> aA | aB | a | b
-B -> bA | bB | a | b
+A -> aA | aB | I
+B -> bA | bB | I
 ```
