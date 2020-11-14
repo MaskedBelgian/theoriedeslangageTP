@@ -137,3 +137,13 @@ voir 20
 22. *Donnez une autre dérivation gauche possible (et donc un autre arbre syntaxique) pour cette même phrase.*
 
 23. *Cette grammaire est-elle ambigüe ? Prouvez votre réponse.*
+
+25.
+
+26.
+
+```
+I -> E | a | b | AB
+A -> aA | aB | a | b
+B -> bA | bB | a | b
+```
