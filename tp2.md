@@ -138,12 +138,21 @@ voir 20
 
 23. *Cette grammaire est-elle ambigüe ? Prouvez votre réponse.*
 
-25.
+Oui car plusieurs arbres syntaxiques sont possible.
 
-26.
+25. *Cet automate est-il déterministe ? Pourquoi ?*
+
+Faisons la grammaire:
+```
+I -> E | a | b | aB
+B -> aBB | b
+```
+
+> N'est pas déterministe
+
+26. *Si cet automate n'est pas déterministe, déterminisez-le.*
 
 ```
-I -> E  | AB
-A -> aA | B
-B -> bB | A
+I -> E  | a | b | aaBB | ab
+B -> aBB | b
 ```
