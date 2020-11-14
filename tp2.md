@@ -143,7 +143,7 @@ voir 20
 26.
 
 ```
-I -> E | a | b | AB
-A -> aA | aB | I
-B -> bA | bB | I
+I -> E  | AB
+A -> aA | B
+B -> bB | A
 ```
